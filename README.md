@@ -1,3 +1,19 @@
+# Weather App (React.js)
+
+This is a simple Weather App built using React.js, which allows users to search for weather information for a specific location. It utilizes the OpenWeatherMap API to fetch real-time weather data and displays it in a user-friendly interface.
+
+# Features:
+- Search for weather information by entering a city name or ZIP code.
+- Displays current weather conditions, including temperature, humidity, wind speed, and description.
+- Support Celsius unit for temperature display.
+- Responsive design that adapts to different screen sizes and devices.
+
+# Technologies used:
+- React.js: A popular JavaScript library for building user interfaces, providing efficient component-based development.
+- OpenWeatherMap API: Used to fetch weather data and retrieve information such as temperature, humidity, and wind speed.
+- HTML5 and CSS3: Markup and styling languages used to create the user interface and design elements.
+- Axios: A promise-based HTTP client for making API requests from the frontend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
